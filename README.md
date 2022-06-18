@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently attending Southern New Hampshire University! Graduation Date --> March 2023 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn Front End Development and Contribute to Open Source Projects
+- 🥅 2022 Goals: Take on bigger projects and contribute to more Open Source Projects
 - ⚡ Fun fact: I have a passion for game development and business alike.
 
 ### Connect with me:
