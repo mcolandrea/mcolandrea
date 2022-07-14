@@ -16,5 +16,5 @@
 <br />
 
 
-[twitter]: https://twitter.com/Fulosophyy
+[twitter]: https://www.michaelcolandrea.com
 [linkedin]: https://linkedin.com/in/mcolandrea
